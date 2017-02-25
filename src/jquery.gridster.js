@@ -147,8 +147,8 @@
     * @method add_widget
     * @param {String|HTMLElement} html The string representing the HTML of the widget
     *  or the HTMLElement.
-    * @param {Number} [size_x] The nº of rows the widget occupies horizontally.
-    * @param {Number} [size_y] The nº of columns the widget occupies vertically.
+    * @param {Number} [size_x] The number of columns the widget occupies horizontally.
+    * @param {Number} [size_y] The number of rows the widget occupies vertically.
     * @param {Number} [col] The column the widget should start in.
     * @param {Number} [row] The row the widget should start in.
     * @return {HTMLElement} Returns the jQuery wrapped HTMLElement representing.
